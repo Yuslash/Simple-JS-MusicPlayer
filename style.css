@@ -1,0 +1,80 @@
+body{
+    background-color: blueviolet;
+}
+.box4
+{
+    position: absolute;
+    width: 1500px;
+    height: 95px;
+    background-color: black;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.ibuttons
+{
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    align-items:center;
+    margin-top: 25px;
+}
+.forw{
+    margin-left: -560px;
+    color: rgb(141, 145, 145);
+}
+.prev{
+    color: rgb(141, 145, 145);
+}
+.playbutton{
+    position: absolute;
+}
+.fa-solid
+{
+    cursor: pointer;
+}
+.fa-backward-step{
+    cursor: pointer;
+}
+.fa-solid:hover{
+    color: yellow;
+}
+.playing
+{
+    position: absolute;
+    color: white;
+    left: 110px;
+    top: 45px;
+}
+.song-name
+{
+    position: absolute;
+    top: -45px;
+    left: -10px;
+}
+.shuffle,
+.repeat
+{
+    position: absolute;
+
+}
+.repeat
+{
+    margin-left: 230px;
+    color: rgb(141, 145, 145);
+}
+.shuffle
+{
+    margin-right: 230px;
+    color: rgb(141, 145, 145);
+}
+.song-image
+{
+    position: absolute;
+    margin-left: -100px;
+    width: 70px;
+    height: 70px;
+    margin-top: -50px;
+
+
+}
