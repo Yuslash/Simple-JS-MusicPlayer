@@ -22,8 +22,8 @@ To use the Music Player, simply include it in your web application and follow th
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha384-MJWE6LhV99g2jZxvf8wh/iWP2cZEeZ7rb9I1rQrIKFZv1iWX77kK+SwrDEBzZC0C" crossorigin="anonymous">
-    <script src="https://unpkg.com/@phosphor/icons"></script>
+    <link rel="stylesheet" href="font-awesome">
+    <script src="@phosphor/icons"></script>
 </head>
 <body> 
     
